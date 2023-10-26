@@ -25,3 +25,4 @@ course: CIS 106 Linux Fundamentals
 |figlet|prints given text as large letters made of smaller characters|
 |toilet|same functionality as figlet but with extra features|
 |rig|creates a fake identity with a name, address, and telephone number|
+|boxes|draws a variety of boxes around given text|
