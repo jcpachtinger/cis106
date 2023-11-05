@@ -62,3 +62,14 @@ cp Downloads/legallyacquiredROMimage.sfc Downloads/SNESroms
 ex4: copying a directory
 cp -r Downloads/SNESroms Downloads/Nothingtoseehere/justuschickens/nogamesinherebutifthereistheyrelegalbackups
 
+## Practice 1
+![](practice1.png)
+
+## Practice 2
+![](practice2.png)
+
+## Practice 3
+![](practice3.png)
+
+## Practice 4
+![](practice4.png)
